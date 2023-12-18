@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\welcomePet_github\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3339084173.index
+295092561.index
+1613654489.index
+4173521525.index
+3068349159.index
