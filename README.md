@@ -18,7 +18,7 @@
 - 참여인원: 총 5인
 - 프로젝트 기간: 2023.06 ~ 2023.08
 
-## :dog2:개발환경
+## :bone:개발환경
 - OS: **Window11**
 - Develop Tool: **Eclipse(Spring Framework 5.0.7 RELEASE)**
 - Database: **ORACLE 11g RELEASE (21.8.0.0)**
@@ -27,8 +27,8 @@
 - Library: **Spring Framework, MyBatis 3.4.6**
 - Web Application Server: **Apache Tomcat/9.0.75**
 
-## :dog2:ERD
+## :bone:ERD
 ![image](https://github.com/why-not-available/PJ_welcomePet/assets/131629649/2e246267-599a-47a1-8aad-52882b53addb)
 
-## :dog2:담당파트
+## :bone:담당파트
 - 커뮤니티 게시판: 어서보여주개
