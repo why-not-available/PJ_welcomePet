@@ -31,3 +31,4 @@
 ![image](https://github.com/why-not-available/PJ_welcomePet/assets/131629649/2e246267-599a-47a1-8aad-52882b53addb)
 
 ## 담당기능
+- 커뮤니티: 어서보여주개
