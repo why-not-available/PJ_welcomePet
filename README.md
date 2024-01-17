@@ -14,16 +14,17 @@
 </div>
 
 ##
+##
 
 - 참여인원: 총 5인
 - 프로젝트 기간: 2023.06 ~ 2023.08
 
 ## 개발환경
-- OS: Window11
-- Develop Tool: Eclipse(Spring Framework 5.0.7 RELEASE)
-- Database: ORACLE 11g RELEASE (21.8.0.0)
-- Language: Java, JSP, HTML, CSS, JavaScript, jQuery
-- Java Version: JDK11
-- Library: Spring Framework , MyBatis 3.4.6
-- Web Application Server: Apache Tomcat/9.0.75
+- OS: **Window11**
+- Develop Tool: **Eclipse(Spring Framework 5.0.7 RELEASE)**
+- Database: **ORACLE 11g RELEASE (21.8.0.0)**
+- Language: **Java, JSP, HTML, CSS, JavaScript, jQuery**
+- Java Version: **JDK11**
+- Library: **Spring Framework , MyBatis 3.4.6**
+- Web Application Server: **Apache Tomcat/9.0.75**
 ##
