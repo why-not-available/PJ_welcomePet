@@ -1,5 +1,5 @@
 ![어서오개_배경X](https://github.com/why-not-available/PJ_welcomePet/assets/131629649/ac408e24-7862-4ea2-96f4-a0f666bf56d2)
-
+<img src="https://github.com/why-not-available/PJ_welcomePet/assets/131629649/ac408e24-7862-4ea2-96f4-a0f666bf56d2.png" width="50%" height="50%"/>
 <!--
 어서오개는 오픈마켓 기반의 반려견 용품 쇼핑몰 및 커뮤니티입니다. 
 
