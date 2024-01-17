@@ -24,8 +24,10 @@
 - Database: **ORACLE 11g RELEASE (21.8.0.0)**
 - Language: **Java, JSP, HTML, CSS, JavaScript, jQuery**
 - Java Version: **JDK11**
-- Library: **Spring Framework , MyBatis 3.4.6**
+- Library: **Spring Framework, MyBatis 3.4.6**
 - Web Application Server: **Apache Tomcat/9.0.75**
 
 ## 데이터베이스 구조
 ![image](https://github.com/why-not-available/PJ_welcomePet/assets/131629649/2e246267-599a-47a1-8aad-52882b53addb)
+
+## 담당기능
